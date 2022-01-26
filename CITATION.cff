@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Jika Anda menggunakan ide dan material dari repositori, silakan beri kutipan sebagai berikut:"
+authors:
+  - family-names: Rajeg
+    given-names: Gede Primahadi Wijaya
+    orcid: https://orcid.org/0000-0002-2047-8621
+title: "Material pendukung untuk 'Pentingnya kecakapan numeris, sains data dan komputasi bagi peneliti bahasa abad 21'"
+version: 0.0.1
+doi: ""
+date-released: 2022-02-22
+license: CC BY-NC-SA 4.0 International
+repository-code: "https://github.com/gederajeg/snbi-unud-2022"
